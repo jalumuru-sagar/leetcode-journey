@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0219-contains-duplicate-ii/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0169-majority-element](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0219-contains-duplicate-ii/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,4 +45,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0169-majority-element/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0219-contains-duplicate-ii/) | Easy |
 <!---LeetCode Topics End-->
