@@ -14,15 +14,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0220-contains-duplicate-iii](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0220-contains-duplicate-iii/) | Hard |
+| [0350-intersection-of-two-arrays-ii](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0027-remove-element/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0035-search-insert-position/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -33,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0217-contains-duplicate/) | Easy |
 | [0220-contains-duplicate-iii](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0220-contains-duplicate-iii/) | Hard |
+| [0350-intersection-of-two-arrays-ii](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
