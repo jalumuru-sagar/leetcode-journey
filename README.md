@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0038-count-and-say](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0038-count-and-say/) | Medium |
 | [0125-valid-palindrome](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0242-valid-anagram/) | Easy |
 ## String Matching
