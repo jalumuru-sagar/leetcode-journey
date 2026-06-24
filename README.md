@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0242-valid-anagram](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0242-valid-anagram/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0217-contains-duplicate/) | Easy |
 | [0220-contains-duplicate-iii](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0220-contains-duplicate-iii/) | Hard |
+| [0242-valid-anagram](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0242-valid-anagram/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0414-third-maximum-number/) | Easy |
 ## Counting
@@ -109,4 +111,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0125-valid-palindrome/) | Easy |
+| [0242-valid-anagram](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
