@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0035-search-insert-position/) | Easy |
 | [0041-first-missing-positive](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0041-first-missing-positive/) | Hard |
 | [0048-rotate-image](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0048-rotate-image/) | Medium |
+| [0049-group-anagrams](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0049-group-anagrams/) | Medium |
 | [0054-spiral-matrix](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0136-single-number](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0136-single-number/) | Easy |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0041-first-missing-positive](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0041-first-missing-positive/) | Hard |
+| [0049-group-anagrams](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0217-contains-duplicate/) | Easy |
@@ -66,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0217-contains-duplicate/) | Easy |
 | [0220-contains-duplicate-iii](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0220-contains-duplicate-iii/) | Hard |
@@ -122,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0038-count-and-say](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0038-count-and-say/) | Medium |
+| [0049-group-anagrams](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0242-valid-anagram/) | Easy |
