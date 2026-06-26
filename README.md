@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0724-find-pivot-index/) | Easy |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0035-search-insert-position/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
