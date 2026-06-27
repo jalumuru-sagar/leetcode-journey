@@ -115,10 +115,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0043-multiply-strings/) | Medium |
 | [0048-rotate-image](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0048-rotate-image/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0043-multiply-strings/) | Medium |
 | [0054-spiral-matrix](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0054-spiral-matrix/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -133,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0038-count-and-say](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0038-count-and-say/) | Medium |
+| [0043-multiply-strings](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0043-multiply-strings/) | Medium |
 | [0049-group-anagrams](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0151-reverse-words-in-a-string/) | Medium |
