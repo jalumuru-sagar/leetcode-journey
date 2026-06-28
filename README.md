@@ -143,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0165-compare-version-numbers](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0165-compare-version-numbers/) | Medium |
 | [0242-valid-anagram](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0242-valid-anagram/) | Easy |
+| [0394-decode-string](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0394-decode-string/) | Medium |
 | [0459-repeated-substring-pattern](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0647-palindromic-substrings](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0647-palindromic-substrings/) | Medium |
 ## String Matching
@@ -162,4 +163,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0394-decode-string](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0394-decode-string/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0394-decode-string](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0394-decode-string/) | Medium |
 <!---LeetCode Topics End-->
