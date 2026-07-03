@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0977-squares-of-a-sorted-array](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [3620-network-recovery-pathways](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -150,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0647-palindromic-substrings](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0647-palindromic-substrings/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/3620-network-recovery-pathways/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -202,12 +205,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/3620-network-recovery-pathways/) | Hard |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3620-network-recovery-pathways](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/3620-network-recovery-pathways/) | Hard |
 <!---LeetCode Topics End-->
