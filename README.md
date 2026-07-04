@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0075-sort-colors/) | Medium |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0136-single-number/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0042-trapping-rain-water](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0075-sort-colors/) | Medium |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0151-reverse-words-in-a-string/) | Medium |
