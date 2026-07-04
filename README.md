@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0283-move-zeroes/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0392-is-subsequence](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0392-is-subsequence/) | Easy |
 | [0647-palindromic-substrings](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0647-palindromic-substrings/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0844-backspace-string-compare](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0844-backspace-string-compare/) | Easy |
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0042-trapping-rain-water](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0042-trapping-rain-water/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0392-is-subsequence](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0392-is-subsequence/) | Easy |
 | [0647-palindromic-substrings](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0647-palindromic-substrings/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/3620-network-recovery-pathways/) | Hard |
 ## String
@@ -181,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0165-compare-version-numbers](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0165-compare-version-numbers/) | Medium |
 | [0242-valid-anagram](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0242-valid-anagram/) | Easy |
+| [0392-is-subsequence](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0392-is-subsequence/) | Easy |
 | [0394-decode-string](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0394-decode-string/) | Medium |
 | [0459-repeated-substring-pattern](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0647-palindromic-substrings](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0647-palindromic-substrings/) | Medium |
