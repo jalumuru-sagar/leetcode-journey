@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0647-palindromic-substrings](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0647-palindromic-substrings/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0844-backspace-string-compare](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0844-backspace-string-compare/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Binary Search
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0043-multiply-strings/) | Medium |
 | [0054-spiral-matrix](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0054-spiral-matrix/) | Medium |
+| [0844-backspace-string-compare](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0844-backspace-string-compare/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -183,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0459-repeated-substring-pattern](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0647-palindromic-substrings](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0647-palindromic-substrings/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0844-backspace-string-compare](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0844-backspace-string-compare/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
@@ -207,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0042-trapping-rain-water/) | Hard |
 | [0394-decode-string](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0394-decode-string/) | Medium |
+| [0844-backspace-string-compare](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0844-backspace-string-compare/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
