@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0744-find-smallest-letter-greater-than-target](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1301-number-of-paths-with-max-score](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -169,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0392-is-subsequence](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0392-is-subsequence/) | Easy |
 | [0647-palindromic-substrings](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0647-palindromic-substrings/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/3620-network-recovery-pathways/) | Hard |
 ## String
 | Problem Name | Difficulty |
