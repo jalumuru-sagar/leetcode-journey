@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0283-move-zeroes/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0392-is-subsequence](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0392-is-subsequence/) | Easy |
+| [0567-permutation-in-string](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0647-palindromic-substrings/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0844-backspace-string-compare](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0844-backspace-string-compare/) | Easy |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0567-permutation-in-string](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0567-permutation-in-string/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Divide and Conquer
@@ -141,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0220-contains-duplicate-iii](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0220-contains-duplicate-iii/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0567-permutation-in-string](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0567-permutation-in-string/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -206,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0394-decode-string/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0459-repeated-substring-pattern](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0459-repeated-substring-pattern/) | Easy |
+| [0567-permutation-in-string](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0647-palindromic-substrings/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0844-backspace-string-compare](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0844-backspace-string-compare/) | Easy |
