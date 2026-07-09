@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1301-number-of-paths-with-max-score](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Two Pointers
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -105,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0567-permutation-in-string/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -255,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -282,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Sweep Line
 | Problem Name | Difficulty |
 | ------- | ------- |
