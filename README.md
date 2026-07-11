@@ -274,11 +274,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -305,10 +307,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Sweep Line
 | Problem Name | Difficulty |
