@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0881-boats-to-save-people](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0881-boats-to-save-people/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0905-sort-array-by-parity/) | Easy |
+| [0930-binary-subarrays-with-sum](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0948-bag-of-tokens](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0948-bag-of-tokens/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0986-interval-list-intersections](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0986-interval-list-intersections/) | Medium |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0567-permutation-in-string/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -160,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0567-permutation-in-string/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -180,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0724-find-pivot-index/) | Easy |
+| [0930-binary-subarrays-with-sum](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
