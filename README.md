@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -169,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0930-binary-subarrays-with-sum](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
