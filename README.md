@@ -288,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0042-trapping-rain-water/) | Hard |
+| [0155-min-stack](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0155-min-stack/) | Medium |
 | [0394-decode-string](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0394-decode-string/) | Medium |
 | [0844-backspace-string-compare](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0844-backspace-string-compare/) | Easy |
 ## Recursion
@@ -358,4 +359,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->
