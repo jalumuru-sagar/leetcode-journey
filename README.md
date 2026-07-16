@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0724-find-pivot-index/) | Easy |
+| [0739-daily-temperatures](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0739-daily-temperatures/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0881-boats-to-save-people](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0881-boats-to-save-people/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -298,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0155-min-stack/) | Medium |
 | [0394-decode-string](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0394-decode-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0496-next-greater-element-i/) | Easy |
+| [0739-daily-temperatures](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0844-backspace-string-compare/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -337,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0042-trapping-rain-water/) | Hard |
 | [0496-next-greater-element-i](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0496-next-greater-element-i/) | Easy |
+| [0739-daily-temperatures](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0739-daily-temperatures/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
