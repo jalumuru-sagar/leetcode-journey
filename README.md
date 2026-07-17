@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0744-find-smallest-letter-greater-than-target](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Bit Manipulation
@@ -131,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1331-rank-transform-of-an-array](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Divide and Conquer
@@ -164,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0169-majority-element](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0169-majority-element/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -207,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Matrix
@@ -223,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0043-multiply-strings/) | Medium |
 | [0048-rotate-image](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0048-rotate-image/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -373,10 +379,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0155-min-stack/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 <!---LeetCode Topics End-->
