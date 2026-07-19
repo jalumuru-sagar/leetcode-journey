@@ -277,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0647-palindromic-substrings/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0844-backspace-string-compare](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0844-backspace-string-compare/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
@@ -302,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0881-boats-to-save-people](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0881-boats-to-save-people/) | Medium |
 | [0948-bag-of-tokens](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0948-bag-of-tokens/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -317,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0844-backspace-string-compare/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -358,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0402-remove-k-digits](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0739-daily-temperatures/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
