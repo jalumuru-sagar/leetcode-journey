@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0724-find-pivot-index/) | Easy |
+| [0735-asteroid-collision](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0739-daily-temperatures/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0881-boats-to-save-people](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0881-boats-to-save-people/) | Medium |
@@ -240,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0043-multiply-strings/) | Medium |
 | [0054-spiral-matrix](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0054-spiral-matrix/) | Medium |
+| [0735-asteroid-collision](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0735-asteroid-collision/) | Medium |
 | [0844-backspace-string-compare](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0844-backspace-string-compare/) | Easy |
 | [1260-shift-2d-grid](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/1260-shift-2d-grid/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -323,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0394-decode-string/) | Medium |
 | [0402-remove-k-digits](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0496-next-greater-element-i/) | Easy |
+| [0735-asteroid-collision](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0844-backspace-string-compare/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
