@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0414-third-maximum-number](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0414-third-maximum-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0724-find-pivot-index/) | Easy |
@@ -326,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0394-decode-string/) | Medium |
 | [0402-remove-k-digits](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0844-backspace-string-compare/) | Easy |
@@ -371,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0316-remove-duplicate-letters](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0402-remove-k-digits](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/0739-daily-temperatures/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jalumuru-sagar/leetcode-journey/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Depth-First Search
